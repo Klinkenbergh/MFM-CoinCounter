@@ -1,1 +1,1 @@
-# CoinsCointer
+# CoinCointer
